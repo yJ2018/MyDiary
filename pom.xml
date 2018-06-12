@@ -36,7 +36,7 @@
         </dependency>-->
 
         <!-- 热部署：正常情况下，我们修改代码之后，需要重新启动服务器代码才能生效
-            热部署能够自动识别我们代码的更新情况，自动为我们重新部署，不需要重启服务器-->
+            热部署能够自动识别我们代码的更新情况，自动为我们重新部署，不需要重启服务器/-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-devtools</artifactId>
